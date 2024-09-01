@@ -35,6 +35,6 @@ httpServer.listen(3000,()=>{
     console.log(`http://127.0.0.1:3000`)
 })
 
-httpsServer.listen(3030,()=>{
+httpServer.listen(3030,()=>{
     console.log(`https://127.0.0.1:3030`)
 })
